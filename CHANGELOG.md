@@ -6,3 +6,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog-config-spec/blob/master/versions/2.2.0/README.md),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [v0.1.0](https://github.com/liblaf/timeit/releases/tag/v0.1.0) - 2026-09-03
+
+### ✨ Features
+
+- **(timeit)** add structured timing library - [bf07527](https://github.com/liblaf/timeit/commit/bf07527673db0fb9e2c6601bf8b3ba2975a6c7be) by [@liblaf](https://github.com/liblaf)
+
+### ⚙️ Continuous Integrations
+
+- skip absent benchmark suite - [fb148e0](https://github.com/liblaf/timeit/commit/fb148e0cec8bf6c2e4315108fceebe1bf22cf98c) by [@liblaf](https://github.com/liblaf)
+
+### ❤️ Contributors
+
+- [@liblaf](https://github.com/liblaf) made their first contribution
